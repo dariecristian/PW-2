@@ -27,7 +27,8 @@
       site: string(optional)
       brands: string (optional)
     }
-
+### Diagramm 
+    https://drive.google.com/file/d/1AtW-Mkgyu61BJUXNq4ewXmrFVXx-HyyH/view?usp=sharing
 ### Crud Methods:
 - Create 
 - Read all entities
