@@ -1,7 +1,7 @@
 # Term of Reference
 ## Project Name: Streetwear Shop.
 ## Entities
-### Clothing Type:
+### Brand Type:
     {
       id: number,
       type: string,
