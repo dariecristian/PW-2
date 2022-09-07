@@ -25,6 +25,7 @@
       name: string(required, min: 5: max: 100),
       description: string(required, min: 6: max: 200),
       site: string(optional)
+      brands: string (optional)
     }
 
 ### Crud Methods:
